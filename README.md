@@ -1,4 +1,4 @@
-MY FIRST REACT PROJECT
+A game of quiz made up of random questions
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
