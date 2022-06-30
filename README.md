@@ -1,5 +1,5 @@
 A game of quiz made up of random questions
-https://amann013.github.io/Quiz-game/
+https://amann013.github.io/Quiz-game/ </br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
